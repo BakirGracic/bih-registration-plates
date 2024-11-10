@@ -36,6 +36,10 @@ Project includes C++ code, executable (shell, .exe) & text files
 - regex pattern for `CC-X-000` format: `^[A-Z]{2}-[ACME]-[0-9]{3}$`
 - regex pattern for `CCCC-X-000` format: `^[A-Z]{4}-[ACME]-[0-9]{3}$`
 
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ### Disclaimer
 
 I am not responsible for malicious use of this information and the consequences.
